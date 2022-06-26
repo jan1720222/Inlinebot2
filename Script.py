@@ -1,6 +1,6 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
- Iam an Inline Movie Search BOT. """
+    START_TXT = """<b>𝙷𝙴𝙻𝙻𝙾 {},</b>
+ Iam an Inline Movie Search BOT. Click <Search Movies<b/> Button or <b>just send Movie Name and year</b>  """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
